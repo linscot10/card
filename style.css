@@ -20,6 +20,7 @@
       overflow: hidden;
       display: flex;
       justify-content: center;
+
       margin: 70px;
 
   }
@@ -31,7 +32,9 @@
       height: 450px;
       display: block;
       justify-content: center;
+      align-items: center;
       border-radius: 10px;
+      box-shadow: 10px 10px 2px;
   }
 
   .images {
